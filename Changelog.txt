@@ -1,0 +1,24 @@
+Forgotten Legacy Changelog
+
+===5.8===
+Started Created scenario nr 6
+===5.7.1===
+Moved the pbl file in the campaign directory
+===5.7===
+*Prepared map for next scenario
+===5.6===
+*Fixed The Blood Chosen's melee attack
+*Naga images should now display correctly
+===5.5===
+*Fixed the 5th scenario village gold.
+===5.4===
+*Rebalanced 4th scenario as it seems a bit too difficult
+===5.3===
+*Fixed broken Karandil's Mace in scenario 4
+===5.2===
+*Increased Skald, Skald Hunter and Skald Chieftain attacks as they were nowhere near as good as other races and they have a very high cost.
+*Added the closing dialogue in the end of the fifth scenario
+===5.1===
+*Removed leftover debug units from scenario 5
+==5.0==
+*Fifth Scenario Ready: Damsel in Distress
